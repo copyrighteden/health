@@ -16,5 +16,6 @@ table.h5 {padding-left:50px;}
 th {text-align:left;
     font-size:12px;}
 td.title {font-size:12px;
-          font-style:bold;}
+          text-decoration-thickness:10px;}
+td.source {font-size:12px;}
 p.table {font-size:10px;}
